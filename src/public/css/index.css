@@ -1,0 +1,106 @@
+.body {
+    width: 1512px;
+    height: 982px;
+    top: -3741px;
+    left: -754px;
+    background-color: rgba(255, 255, 255, 1);
+}
+
+.header {
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    border: 1px rgba(139, 121, 105, 1);
+    max-width: 1512px;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.header__inner {}
+
+.header__logo {
+    color: rgba(139, 121, 105, 1);
+    font-weight: bold;
+    font-size: 60px;
+    text-decoration: none;
+}
+
+
+.contact-form__content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+
+}
+
+/*contact*/
+.contact-form__heading {
+    width: 121px;
+    height: 46px;
+    font-family: Inika;
+    font-size: 35px;
+    font-weight: 400;
+    line-height: 45.61px;
+    text-align: center;
+    display: contents
+}
+
+
+/*フォーム全体*/
+.form {
+    width: 972px;
+    height: 606px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+/*各フォームグループ全体　ブロック*/
+.form__group {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 15px;
+}
+
+.form__group-title {
+    display: flex;
+    justify-content: space-between;
+}
+
+/*項目*/
+.form__label--item {
+    display: flex;
+}
+
+/*必須項目*/
+.form__label--required {
+    margin-left: 5px;
+    padding: 4px 6px;
+    border-radius: 3px;
+    color: #ff0000;
+}
+
+/*記入欄*/
+.form__input--text {}
+
+/*エラー表示*/
+.form__error {
+    height: 20px;
+    color: #ff0000;
+    text-align: left;
+}
+
+/**ラジオボタン*/
+.form__input--radio {}
+
+.form__input--textarea {}
+
+.form__input--textarea textarea {}
+
+/*ボタン全体*/
+.form__button {}
+
+/*ボタン*/
+.form__button-submit {}

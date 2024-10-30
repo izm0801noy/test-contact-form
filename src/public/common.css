@@ -1,0 +1,17 @@
+.header {
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    border: 1px rgba(139, 121, 105, 1);
+    max-width: 1512px;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.header__logo {
+    color: rgba(139, 121, 105, 1);
+    font-weight: bold;
+    font-size: 60px;
+    text-decoration: none;
+}
