@@ -16,8 +16,8 @@ Laravel環境構築
   6.php artisan db:seed
 
 使用技術
-･PHP8.0
-･Laravel10.0
+･PHP v8.3.12
+･Laravel　8.83.27
 ･MySQL8.0
 
 ER図
