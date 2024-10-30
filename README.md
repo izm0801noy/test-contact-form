@@ -4,6 +4,7 @@
 
 Dokerビルド
 　1.git cloneリンク
+    git@github.com:izm0801noy/test-contact-form.git
 
   2.docker-compose up d -build
 
