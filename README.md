@@ -22,8 +22,8 @@ Laravel環境構築
 ･MySQL8.0
 
 ER図
-
-
+![index drawio](https://github.com/user-attachments/assets/0d00172f-9a89-49e7-b3ab-08467aafb627)
+![スクリーンショット 2024-10-31 091849](https://github.com/user-attachments/assets/a80674a8-4859-4dd3-a9ae-ac10b7ee2e4c)
 
 URL
 ･開発環境: http://localhost/
